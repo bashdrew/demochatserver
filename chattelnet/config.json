@@ -1,0 +1,13 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": "8083",
+        "type": "tcp"
+    },
+    "lobby": {
+        "roomsmax": 5
+    },
+    "log": {
+        "filename": "demochatserver.log"
+    }
+}
